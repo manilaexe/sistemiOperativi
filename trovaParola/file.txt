@@ -1,0 +1,7 @@
+Rossi,Marco,02,1234567,Ing.,Via Roma 10 Milano
+Bianchi,Laura,06,7654321,Dott.ssa,Via Napoli 25 Roma
+Verdi,Luca,011,9876543,Dr.,Corso Torino 15 Torino
+Neri,Anna,055,1357924,Avv.,Via Firenze 12 Firenze
+Russo,Paolo,081,2468135,Prof.,Via Vesuvio 8 Napoli
+Bianchi,Vincenzo,051,764324,Ing.,Via Colombo 12 Bologna
+Bianchi,Sandro,051,45628,Prof.,Via Bentini 134 Bologna
