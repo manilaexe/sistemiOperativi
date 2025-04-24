@@ -27,9 +27,7 @@ void signal_handler(int signo){
 int main(int argc, char **argv){
 
     int p1, p2, p3, p1p2[2], p2p3[2], status, fd;
-    char tipo[40], pagare[10];
-
-    strcpy(pagare,"da_pagare");
+    char tipo[40];
 
     if(argc!=2){
         fprintf(stderr, "uso: %s <file.txt>\n",argv[0]);
