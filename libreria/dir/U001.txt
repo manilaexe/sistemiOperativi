@@ -1,0 +1,15 @@
+20240115,20240214,Il nome della rosa,Umberto Eco,Giallo
+20240120,20240218,1984,George Orwell,Distopico
+20240201,20240301,Orgoglio e pregiudizio,Jane Austen,Romantico
+20240205,NON RESTITUITO,Il signore degli anelli,J.R.R. Tolkien,Fantasy
+20240210,20240312,Cronaca di una morte annunciata,Gabriel Garcia Marquez,Drammatico
+20240301,20240329,Il barone rampante,Italo Calvino,Narrativa
+20240315,NON RESTITUITO,Cent'anni di solitudine,Gabriel Garcia Marquez,Realismo magico
+20240320,20240420,La coscienza di Zeno,Italo Svevo,Psychologico
+20240401,20240430,Delitto e castigo,Fëdor Dostoevskij,Drammatico
+20240405,NON RESTITUITO,Il giovane Holden,J.D. Salinger,Narrativa
+20240410,20240425,Il piccolo principe,Antoine de Saint-Exupéry,Fiaba
+20240415,NON RESTITUITO,Fahrenheit 451,Ray Bradbury,Distopico
+20240420,NON RESTITUITO,Siddharta,Hermann Hesse,Spirituale
+20240422,NON RESTITUITO,Il gattopardo,Giuseppe Tomasi di Lampedusa,Storico
+20240425,NON RESTITUITO,Anna Karenina,Lev Tolstoj,Drammatico
